@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bitplug.iml" filepath="$PROJECT_DIR$/.idea/Bitplug.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MobApp.iml" filepath="$PROJECT_DIR$/.idea/MobApp.iml" />
     </modules>
   </component>
