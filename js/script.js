@@ -16,7 +16,7 @@ $(function() {
      * FIXED  MENU - HEADER
      *-----------------------------------*/
     function menuscroll() {
-        var $navmenu = $('.nav-menu');
+        var $navmenu = $('.navbar');
         if ($(window).scrollTop() > 50) {
             $navmenu.addClass('is-scrolling');
         } else {
